@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(gh repo:*)",
+      "Bash(git --version)",
+      "Bash(git ls-remote:*)",
+      "Skill(update-config)"
+    ]
+  }
+}
