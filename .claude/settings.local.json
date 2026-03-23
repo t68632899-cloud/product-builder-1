@@ -4,7 +4,8 @@
       "Bash(gh repo:*)",
       "Bash(git --version)",
       "Bash(git ls-remote:*)",
-      "Skill(update-config)"
+      "Skill(update-config)",
+      "Bash(git config:*)"
     ]
   }
 }
